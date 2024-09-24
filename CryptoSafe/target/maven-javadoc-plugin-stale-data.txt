@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/Ornella Gigante/OneDrive/Escritorio/CryptoSafe/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Ornella Gigante/OneDrive/Escritorio/CryptoSafe/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CryptoSafe 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CryptoSafe 1.0-SNAPSHOT API'
+com.mycompany.cryptosafe
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\src\main\java = 1727172299685
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\allclasses-index.html = 1727174649363
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\allpackages-index.html = 1727174649365
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\copy.svg = 1727174649392
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\element-list = 1727174649314
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\help-doc.html = 1727174649387
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\index-all.html = 1727174649381
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\index.html = 1727174649384
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\link.svg = 1727174649393
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\member-search-index.js = 1727174649368
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\module-search-index.js = 1727174649366
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\overview-tree.html = 1727174649348
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\package-search-index.js = 1727174649367
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\script.js = 1727174649391
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\search-page.js = 1727174649397
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\search.html = 1727174649383
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\search.js = 1727174649395
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\stylesheet.css = 1727174649389
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\tag-search-index.js = 1727174649369
+C:\Users\Ornella Gigante\OneDrive\Escritorio\CryptoSafe\target\reports\apidocs\type-search-index.js = 1727174649367
